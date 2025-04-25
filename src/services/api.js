@@ -3,10 +3,10 @@ import axios from 'axios';
 // Proxy CORS Anywhere
 const CORS_PROXY = 'https://cors-anywhere.herokuapp.com/';
 
-// Base URL pour l'API Lyrics.ovh
+// Base URL API Lyrics.ovh
 const LYRICS_API_URL = 'https://api.lyrics.ovh/v1';
 
-// Base URL pour l'API Deezer (pour la recherche de chansons)
+// Base URL API Deezer (for dearching songs)
 const DEEZER_API_URL = 'https://api.deezer.com';
 
 export default {
